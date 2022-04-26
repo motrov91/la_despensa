@@ -1,0 +1,10 @@
+export 'package:cliche/widgets/preview_items.dart';
+export 'package:cliche/widgets/categories.dart';
+export 'package:cliche/widgets/custom_navigation_bar.dart';
+export 'package:cliche/widgets/custom_shoppin_cart.dart';
+export 'package:cliche/widgets/data_user.dart';
+export 'package:cliche/widgets/search_widget.dart';
+export 'package:cliche/widgets/home_widget.dart';
+export 'package:cliche/widgets/custom_appbar.dart';
+export 'package:cliche/widgets/cart_list.dart';
+export 'package:cliche/widgets/cantidad_producto.dart';

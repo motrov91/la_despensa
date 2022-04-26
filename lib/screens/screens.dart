@@ -1,0 +1,11 @@
+export 'package:cliche/screens/home_screen.dart';
+export 'package:cliche/screens/aceites_endulzantes.dart';
+export 'package:cliche/screens/arroz_cafes_aromaticas.dart';
+export 'package:cliche/screens/aseo_personal.dart';
+export 'package:cliche/screens/bebidas_licores.dart';
+export 'package:cliche/screens/granos_pastas.dart';
+export 'package:cliche/screens/harinas_embutidos.dart';
+export 'package:cliche/screens/hogar.dart';
+export 'package:cliche/screens/lacteos_huevos.dart';
+export 'package:cliche/screens/carrito.dart';
+export 'package:cliche/screens/detalle_producto.dart';
